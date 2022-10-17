@@ -1,0 +1,19 @@
+.data {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #ea9598;    
+}
+
+.person {
+  border: 1px solid #ea9598;
+  border-radius: 10px;
+  background-color: #f4cbc7;
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+}
+
+.person__name {
+  font-size: 2rem;
+}

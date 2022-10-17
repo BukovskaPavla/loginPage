@@ -1,0 +1,35 @@
+.header {
+    background-color: #00374b;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ea9598;
+}
+
+.prozeta {
+    font-size: 2rem;
+}
+
+.logIn {
+    font-size: 1.5rem;
+}
+
+.logIn_name {
+    font-size: 1.5rem;
+    padding-right: 50px;
+}
+
+.right_side {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+/* HEX CODES: 
+#00374b
+#216278
+#db3448
+#ea9598
+#f4cbc7 */
